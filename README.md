@@ -26,4 +26,5 @@ Once the bot has started, you will need to run the command `/badge` in the Disco
 
 # Resources
 [Setup a Discord Bot](https://www.youtube.com/watch?v=PpYw7lQiNqI)
+
 [NextCord](https://docs.nextcord.dev/en/stable/)
